@@ -1,0 +1,305 @@
+C:\Users\student\RiderProjects\TestProject\TestProject\bin\Debug\TestProject.exe.config
+C:\Users\student\RiderProjects\TestProject\TestProject\bin\Debug\TestProject.exe
+C:\Users\student\RiderProjects\TestProject\TestProject\bin\Debug\TestProject.pdb
+C:\Users\student\RiderProjects\TestProject\TestProject\obj\Debug\TestProject.csprojResolveAssemblyReference.cache
+C:\Users\student\RiderProjects\TestProject\TestProject\obj\Debug\MainWindow.g.cs
+C:\Users\student\RiderProjects\TestProject\TestProject\obj\Debug\App.g.cs
+C:\Users\student\RiderProjects\TestProject\TestProject\obj\Debug\TestProject_MarkupCompile.cache
+C:\Users\student\RiderProjects\TestProject\TestProject\obj\Debug\TestProject_MarkupCompile.lref
+C:\Users\student\RiderProjects\TestProject\TestProject\obj\Debug\MainWindow.baml
+C:\Users\student\RiderProjects\TestProject\TestProject\obj\Debug\TestProject.g.resources
+C:\Users\student\RiderProjects\TestProject\TestProject\obj\Debug\TestProject.Properties.Resources.resources
+C:\Users\student\RiderProjects\TestProject\TestProject\obj\Debug\TestProject.csproj.GenerateResource.Cache
+C:\Users\student\RiderProjects\TestProject\TestProject\obj\Debug\TestProject.exe
+C:\Users\student\RiderProjects\TestProject\TestProject\obj\Debug\TestProject.pdb
+C:\Users\student\RiderProjects\TestProject\TestProject\obj\Debug\SecondMain.g.cs
+C:\Users\student\RiderProjects\TestProject\TestProject\obj\Debug\SecondMain.baml
+C:\Users\HWRW\Desktop\Projects\TestProject\TestProject\bin\Debug\TestProject.exe.config
+C:\Users\HWRW\Desktop\Projects\TestProject\TestProject\bin\Debug\TestProject.exe
+C:\Users\HWRW\Desktop\Projects\TestProject\TestProject\bin\Debug\TestProject.pdb
+C:\Users\HWRW\Desktop\Projects\TestProject\TestProject\obj\Debug\TestProject.csprojAssemblyReference.cache
+C:\Users\HWRW\Desktop\Projects\TestProject\TestProject\obj\Debug\MainWindow.g.cs
+C:\Users\HWRW\Desktop\Projects\TestProject\TestProject\obj\Debug\SecondMain.g.cs
+C:\Users\HWRW\Desktop\Projects\TestProject\TestProject\obj\Debug\App.g.cs
+C:\Users\HWRW\Desktop\Projects\TestProject\TestProject\obj\Debug\TestProject_MarkupCompile.cache
+C:\Users\HWRW\Desktop\Projects\TestProject\TestProject\obj\Debug\TestProject_MarkupCompile.lref
+C:\Users\HWRW\Desktop\Projects\TestProject\TestProject\obj\Debug\MainWindow.baml
+C:\Users\HWRW\Desktop\Projects\TestProject\TestProject\obj\Debug\SecondMain.baml
+C:\Users\HWRW\Desktop\Projects\TestProject\TestProject\obj\Debug\TestProject.g.resources
+C:\Users\HWRW\Desktop\Projects\TestProject\TestProject\obj\Debug\TestProject.Properties.Resources.resources
+C:\Users\HWRW\Desktop\Projects\TestProject\TestProject\obj\Debug\TestProject.csproj.GenerateResource.cache
+C:\Users\HWRW\Desktop\Projects\TestProject\TestProject\obj\Debug\TestProject.csproj.CoreCompileInputs.cache
+C:\Users\HWRW\Desktop\Projects\TestProject\TestProject\obj\Debug\TestProject.exe
+C:\Users\HWRW\Desktop\Projects\TestProject\TestProject\obj\Debug\TestProject.pdb
+C:\Users\student\Desktop\Work\TestProject\TestProject\bin\Debug\TestProject.exe.config
+C:\Users\student\Desktop\Work\TestProject\TestProject\bin\Debug\TestProject.exe
+C:\Users\student\Desktop\Work\TestProject\TestProject\bin\Debug\TestProject.pdb
+C:\Users\student\Desktop\Work\TestProject\TestProject\obj\Debug\TestProject.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\Work\TestProject\TestProject\obj\Debug\MainWindow.g.cs
+C:\Users\student\Desktop\Work\TestProject\TestProject\obj\Debug\SecondMain.g.cs
+C:\Users\student\Desktop\Work\TestProject\TestProject\obj\Debug\App.g.cs
+C:\Users\student\Desktop\Work\TestProject\TestProject\obj\Debug\TestProject_MarkupCompile.cache
+C:\Users\student\Desktop\Work\TestProject\TestProject\obj\Debug\TestProject_MarkupCompile.lref
+C:\Users\student\Desktop\Work\TestProject\TestProject\obj\Debug\MainWindow.baml
+C:\Users\student\Desktop\Work\TestProject\TestProject\obj\Debug\SecondMain.baml
+C:\Users\student\Desktop\Work\TestProject\TestProject\obj\Debug\TestProject.g.resources
+C:\Users\student\Desktop\Work\TestProject\TestProject\obj\Debug\TestProject.Properties.Resources.resources
+C:\Users\student\Desktop\Work\TestProject\TestProject\obj\Debug\TestProject.csproj.GenerateResource.Cache
+C:\Users\student\Desktop\Work\TestProject\TestProject\obj\Debug\TestProject.exe
+C:\Users\student\Desktop\Work\TestProject\TestProject\obj\Debug\TestProject.pdb
+C:\Users\Simple\Downloads\Telegram Desktop\27_10_2018_Project-20181027T105636Z-001\27_10_2018_Project\TestProject\obj\Debug\TestProject.csprojAssemblyReference.cache
+C:\Users\Simple\Downloads\Telegram Desktop\27_10_2018_Project-20181027T105636Z-001\27_10_2018_Project\TestProject\obj\Debug\MainWindow.g.cs
+C:\Users\Simple\Downloads\Telegram Desktop\27_10_2018_Project-20181027T105636Z-001\27_10_2018_Project\TestProject\obj\Debug\SecondMain.g.cs
+C:\Users\Simple\Downloads\Telegram Desktop\27_10_2018_Project-20181027T105636Z-001\27_10_2018_Project\TestProject\obj\Debug\App.g.cs
+C:\Users\Simple\Downloads\Telegram Desktop\27_10_2018_Project-20181027T105636Z-001\27_10_2018_Project\TestProject\obj\Debug\TestProject_MarkupCompile.cache
+C:\Users\Simple\Downloads\Telegram Desktop\27_10_2018_Project-20181027T105636Z-001\27_10_2018_Project\TestProject\obj\Debug\TestProject_MarkupCompile.lref
+C:\Users\Simple\Downloads\Telegram Desktop\27_10_2018_Project-20181027T105636Z-001\27_10_2018_Project\TestProject\obj\Debug\TestProject.exe
+C:\Users\Simple\Downloads\Telegram Desktop\27_10_2018_Project-20181027T105636Z-001\27_10_2018_Project\TestProject\obj\Debug\TestProject.pdb
+C:\Users\Simple\Downloads\Telegram Desktop\27_10_2018_Project-20181027T105636Z-001\27_10_2018_Project\TestProject\bin\Debug\TestProject.exe.config
+C:\Users\Simple\Downloads\Telegram Desktop\27_10_2018_Project-20181027T105636Z-001\27_10_2018_Project\TestProject\bin\Debug\TestProject.exe
+C:\Users\Simple\Downloads\Telegram Desktop\27_10_2018_Project-20181027T105636Z-001\27_10_2018_Project\TestProject\bin\Debug\TestProject.pdb
+C:\Users\Simple\Downloads\Telegram Desktop\27_10_2018_Project-20181027T105636Z-001\27_10_2018_Project\TestProject\obj\Debug\MainWindow.baml
+C:\Users\Simple\Downloads\Telegram Desktop\27_10_2018_Project-20181027T105636Z-001\27_10_2018_Project\TestProject\obj\Debug\SecondMain.baml
+C:\Users\Simple\Downloads\Telegram Desktop\27_10_2018_Project-20181027T105636Z-001\27_10_2018_Project\TestProject\obj\Debug\TestProject.g.resources
+C:\Users\Simple\Downloads\Telegram Desktop\27_10_2018_Project-20181027T105636Z-001\27_10_2018_Project\TestProject\obj\Debug\TestProject.Properties.Resources.resources
+C:\Users\Simple\Downloads\Telegram Desktop\27_10_2018_Project-20181027T105636Z-001\27_10_2018_Project\TestProject\obj\Debug\TestProject.csproj.GenerateResource.cache
+C:\Users\Simple\Downloads\Telegram Desktop\27_10_2018_Project-20181027T105636Z-001\27_10_2018_Project\TestProject\obj\Debug\TestProject.csproj.CoreCompileInputs.cache
+C:\Users\HWRW\Desktop\Projects\27_10_2018\27_10_2018_Project\TestProject\bin\Debug\TestProject.exe.config
+C:\Users\HWRW\Desktop\Projects\27_10_2018\27_10_2018_Project\TestProject\bin\Debug\TestProject.exe
+C:\Users\HWRW\Desktop\Projects\27_10_2018\27_10_2018_Project\TestProject\bin\Debug\TestProject.pdb
+C:\Users\HWRW\Desktop\Projects\27_10_2018\27_10_2018_Project\TestProject\obj\Debug\TestProject.csprojAssemblyReference.cache
+C:\Users\HWRW\Desktop\Projects\27_10_2018\27_10_2018_Project\TestProject\obj\Debug\MainWindow.g.cs
+C:\Users\HWRW\Desktop\Projects\27_10_2018\27_10_2018_Project\TestProject\obj\Debug\SecondMain.g.cs
+C:\Users\HWRW\Desktop\Projects\27_10_2018\27_10_2018_Project\TestProject\obj\Debug\App.g.cs
+C:\Users\HWRW\Desktop\Projects\27_10_2018\27_10_2018_Project\TestProject\obj\Debug\TestProject_MarkupCompile.cache
+C:\Users\HWRW\Desktop\Projects\27_10_2018\27_10_2018_Project\TestProject\obj\Debug\TestProject_MarkupCompile.lref
+C:\Users\HWRW\Desktop\Projects\27_10_2018\27_10_2018_Project\TestProject\obj\Debug\MainWindow.baml
+C:\Users\HWRW\Desktop\Projects\27_10_2018\27_10_2018_Project\TestProject\obj\Debug\SecondMain.baml
+C:\Users\HWRW\Desktop\Projects\27_10_2018\27_10_2018_Project\TestProject\obj\Debug\TestProject.g.resources
+C:\Users\HWRW\Desktop\Projects\27_10_2018\27_10_2018_Project\TestProject\obj\Debug\TestProject.Properties.Resources.resources
+C:\Users\HWRW\Desktop\Projects\27_10_2018\27_10_2018_Project\TestProject\obj\Debug\TestProject.csproj.GenerateResource.cache
+C:\Users\HWRW\Desktop\Projects\27_10_2018\27_10_2018_Project\TestProject\obj\Debug\TestProject.csproj.CoreCompileInputs.cache
+C:\Users\HWRW\Desktop\Projects\27_10_2018\27_10_2018_Project\TestProject\obj\Debug\TestProject.exe
+C:\Users\HWRW\Desktop\Projects\27_10_2018\27_10_2018_Project\TestProject\obj\Debug\TestProject.pdb
+C:\Users\HWRW\Desktop\Projects\27_10_2018\27_10_2018_Project\TestProject\obj\Debug\TestProject_Content.g.cs
+C:\Users\Simple\Downloads\Telegram Desktop\27_10_2018_alpha2_leftbartheend\27_10_2018_Project\TestProject\bin\Debug\TestProject.exe.config
+C:\Users\Simple\Downloads\Telegram Desktop\27_10_2018_alpha2_leftbartheend\27_10_2018_Project\TestProject\bin\Debug\TestProject.exe
+C:\Users\Simple\Downloads\Telegram Desktop\27_10_2018_alpha2_leftbartheend\27_10_2018_Project\TestProject\bin\Debug\TestProject.pdb
+C:\Users\Simple\Downloads\Telegram Desktop\27_10_2018_alpha2_leftbartheend\27_10_2018_Project\TestProject\obj\Debug\TestProject.csprojAssemblyReference.cache
+C:\Users\Simple\Downloads\Telegram Desktop\27_10_2018_alpha2_leftbartheend\27_10_2018_Project\TestProject\obj\Debug\MainWindow.g.cs
+C:\Users\Simple\Downloads\Telegram Desktop\27_10_2018_alpha2_leftbartheend\27_10_2018_Project\TestProject\obj\Debug\SecondMain.g.cs
+C:\Users\Simple\Downloads\Telegram Desktop\27_10_2018_alpha2_leftbartheend\27_10_2018_Project\TestProject\obj\Debug\App.g.cs
+C:\Users\Simple\Downloads\Telegram Desktop\27_10_2018_alpha2_leftbartheend\27_10_2018_Project\TestProject\obj\Debug\TestProject_Content.g.cs
+C:\Users\Simple\Downloads\Telegram Desktop\27_10_2018_alpha2_leftbartheend\27_10_2018_Project\TestProject\obj\Debug\TestProject_MarkupCompile.cache
+C:\Users\Simple\Downloads\Telegram Desktop\27_10_2018_alpha2_leftbartheend\27_10_2018_Project\TestProject\obj\Debug\TestProject_MarkupCompile.lref
+C:\Users\Simple\Downloads\Telegram Desktop\27_10_2018_alpha2_leftbartheend\27_10_2018_Project\TestProject\obj\Debug\MainWindow.baml
+C:\Users\Simple\Downloads\Telegram Desktop\27_10_2018_alpha2_leftbartheend\27_10_2018_Project\TestProject\obj\Debug\SecondMain.baml
+C:\Users\Simple\Downloads\Telegram Desktop\27_10_2018_alpha2_leftbartheend\27_10_2018_Project\TestProject\obj\Debug\TestProject.g.resources
+C:\Users\Simple\Downloads\Telegram Desktop\27_10_2018_alpha2_leftbartheend\27_10_2018_Project\TestProject\obj\Debug\TestProject.Properties.Resources.resources
+C:\Users\Simple\Downloads\Telegram Desktop\27_10_2018_alpha2_leftbartheend\27_10_2018_Project\TestProject\obj\Debug\TestProject.csproj.GenerateResource.cache
+C:\Users\Simple\Downloads\Telegram Desktop\27_10_2018_alpha2_leftbartheend\27_10_2018_Project\TestProject\obj\Debug\TestProject.csproj.CoreCompileInputs.cache
+C:\Users\Simple\Downloads\Telegram Desktop\27_10_2018_alpha2_leftbartheend\27_10_2018_Project\TestProject\obj\Debug\TestProject.exe
+C:\Users\Simple\Downloads\Telegram Desktop\27_10_2018_alpha2_leftbartheend\27_10_2018_Project\TestProject\obj\Debug\TestProject.pdb
+C:\Users\HWRW\Desktop\Projects\28_10_2018_Project_Aplha1\TestProject\bin\Debug\TestProject.exe.config
+C:\Users\HWRW\Desktop\Projects\28_10_2018_Project_Aplha1\TestProject\bin\Debug\TestProject.exe
+C:\Users\HWRW\Desktop\Projects\28_10_2018_Project_Aplha1\TestProject\bin\Debug\TestProject.pdb
+C:\Users\HWRW\Desktop\Projects\28_10_2018_Project_Aplha1\TestProject\obj\Debug\TestProject.csprojAssemblyReference.cache
+C:\Users\HWRW\Desktop\Projects\28_10_2018_Project_Aplha1\TestProject\obj\Debug\MainWindow.g.cs
+C:\Users\HWRW\Desktop\Projects\28_10_2018_Project_Aplha1\TestProject\obj\Debug\SecondMain.g.cs
+C:\Users\HWRW\Desktop\Projects\28_10_2018_Project_Aplha1\TestProject\obj\Debug\App.g.cs
+C:\Users\HWRW\Desktop\Projects\28_10_2018_Project_Aplha1\TestProject\obj\Debug\TestProject_Content.g.cs
+C:\Users\HWRW\Desktop\Projects\28_10_2018_Project_Aplha1\TestProject\obj\Debug\TestProject_MarkupCompile.cache
+C:\Users\HWRW\Desktop\Projects\28_10_2018_Project_Aplha1\TestProject\obj\Debug\TestProject_MarkupCompile.lref
+C:\Users\HWRW\Desktop\Projects\28_10_2018_Project_Aplha1\TestProject\obj\Debug\MainWindow.baml
+C:\Users\HWRW\Desktop\Projects\28_10_2018_Project_Aplha1\TestProject\obj\Debug\SecondMain.baml
+C:\Users\HWRW\Desktop\Projects\28_10_2018_Project_Aplha1\TestProject\obj\Debug\TestProject.g.resources
+C:\Users\HWRW\Desktop\Projects\28_10_2018_Project_Aplha1\TestProject\obj\Debug\TestProject.Properties.Resources.resources
+C:\Users\HWRW\Desktop\Projects\28_10_2018_Project_Aplha1\TestProject\obj\Debug\TestProject.csproj.GenerateResource.cache
+C:\Users\HWRW\Desktop\Projects\28_10_2018_Project_Aplha1\TestProject\obj\Debug\TestProject.csproj.CoreCompileInputs.cache
+C:\Users\HWRW\Desktop\Projects\28_10_2018_Project_Aplha1\TestProject\obj\Debug\TestProject.exe
+C:\Users\HWRW\Desktop\Projects\28_10_2018_Project_Aplha1\TestProject\obj\Debug\TestProject.pdb
+C:\Users\Simple\Downloads\Telegram Desktop\28_10_2018_Project_alpha2Fixed\28_10_2018_Project_alpha2Fixed\TestProject\bin\Debug\TestProject.exe.config
+C:\Users\Simple\Downloads\Telegram Desktop\28_10_2018_Project_alpha2Fixed\28_10_2018_Project_alpha2Fixed\TestProject\bin\Debug\TestProject.exe
+C:\Users\Simple\Downloads\Telegram Desktop\28_10_2018_Project_alpha2Fixed\28_10_2018_Project_alpha2Fixed\TestProject\bin\Debug\TestProject.pdb
+C:\Users\Simple\Downloads\Telegram Desktop\28_10_2018_Project_alpha2Fixed\28_10_2018_Project_alpha2Fixed\TestProject\obj\Debug\TestProject.csprojAssemblyReference.cache
+C:\Users\Simple\Downloads\Telegram Desktop\28_10_2018_Project_alpha2Fixed\28_10_2018_Project_alpha2Fixed\TestProject\obj\Debug\MainWindow.g.cs
+C:\Users\Simple\Downloads\Telegram Desktop\28_10_2018_Project_alpha2Fixed\28_10_2018_Project_alpha2Fixed\TestProject\obj\Debug\SecondMain.g.cs
+C:\Users\Simple\Downloads\Telegram Desktop\28_10_2018_Project_alpha2Fixed\28_10_2018_Project_alpha2Fixed\TestProject\obj\Debug\App.g.cs
+C:\Users\Simple\Downloads\Telegram Desktop\28_10_2018_Project_alpha2Fixed\28_10_2018_Project_alpha2Fixed\TestProject\obj\Debug\TestProject_Content.g.cs
+C:\Users\Simple\Downloads\Telegram Desktop\28_10_2018_Project_alpha2Fixed\28_10_2018_Project_alpha2Fixed\TestProject\obj\Debug\TestProject_MarkupCompile.cache
+C:\Users\Simple\Downloads\Telegram Desktop\28_10_2018_Project_alpha2Fixed\28_10_2018_Project_alpha2Fixed\TestProject\obj\Debug\TestProject_MarkupCompile.lref
+C:\Users\Simple\Downloads\Telegram Desktop\28_10_2018_Project_alpha2Fixed\28_10_2018_Project_alpha2Fixed\TestProject\obj\Debug\MainWindow.baml
+C:\Users\Simple\Downloads\Telegram Desktop\28_10_2018_Project_alpha2Fixed\28_10_2018_Project_alpha2Fixed\TestProject\obj\Debug\SecondMain.baml
+C:\Users\Simple\Downloads\Telegram Desktop\28_10_2018_Project_alpha2Fixed\28_10_2018_Project_alpha2Fixed\TestProject\obj\Debug\TestProject.g.resources
+C:\Users\Simple\Downloads\Telegram Desktop\28_10_2018_Project_alpha2Fixed\28_10_2018_Project_alpha2Fixed\TestProject\obj\Debug\TestProject.Properties.Resources.resources
+C:\Users\Simple\Downloads\Telegram Desktop\28_10_2018_Project_alpha2Fixed\28_10_2018_Project_alpha2Fixed\TestProject\obj\Debug\TestProject.csproj.GenerateResource.cache
+C:\Users\Simple\Downloads\Telegram Desktop\28_10_2018_Project_alpha2Fixed\28_10_2018_Project_alpha2Fixed\TestProject\obj\Debug\TestProject.csproj.CoreCompileInputs.cache
+C:\Users\Simple\Downloads\Telegram Desktop\28_10_2018_Project_alpha2Fixed\28_10_2018_Project_alpha2Fixed\TestProject\obj\Debug\TestProject.exe
+C:\Users\Simple\Downloads\Telegram Desktop\28_10_2018_Project_alpha2Fixed\28_10_2018_Project_alpha2Fixed\TestProject\obj\Debug\TestProject.pdb
+C:\Users\HWRW\Desktop\Projects\29_10_2018_Project_alpha2Fixed\TestProject\bin\Debug\TestProject.exe.config
+C:\Users\HWRW\Desktop\Projects\29_10_2018_Project_alpha2Fixed\TestProject\bin\Debug\TestProject.exe
+C:\Users\HWRW\Desktop\Projects\29_10_2018_Project_alpha2Fixed\TestProject\bin\Debug\TestProject.pdb
+C:\Users\HWRW\Desktop\Projects\29_10_2018_Project_alpha2Fixed\TestProject\obj\Debug\TestProject.csprojAssemblyReference.cache
+C:\Users\HWRW\Desktop\Projects\29_10_2018_Project_alpha2Fixed\TestProject\obj\Debug\MainWindow.g.cs
+C:\Users\HWRW\Desktop\Projects\29_10_2018_Project_alpha2Fixed\TestProject\obj\Debug\SecondMain.g.cs
+C:\Users\HWRW\Desktop\Projects\29_10_2018_Project_alpha2Fixed\TestProject\obj\Debug\App.g.cs
+C:\Users\HWRW\Desktop\Projects\29_10_2018_Project_alpha2Fixed\TestProject\obj\Debug\TestProject_Content.g.cs
+C:\Users\HWRW\Desktop\Projects\29_10_2018_Project_alpha2Fixed\TestProject\obj\Debug\TestProject_MarkupCompile.cache
+C:\Users\HWRW\Desktop\Projects\29_10_2018_Project_alpha2Fixed\TestProject\obj\Debug\TestProject_MarkupCompile.lref
+C:\Users\HWRW\Desktop\Projects\29_10_2018_Project_alpha2Fixed\TestProject\obj\Debug\MainWindow.baml
+C:\Users\HWRW\Desktop\Projects\29_10_2018_Project_alpha2Fixed\TestProject\obj\Debug\SecondMain.baml
+C:\Users\HWRW\Desktop\Projects\29_10_2018_Project_alpha2Fixed\TestProject\obj\Debug\TestProject.g.resources
+C:\Users\HWRW\Desktop\Projects\29_10_2018_Project_alpha2Fixed\TestProject\obj\Debug\TestProject.Properties.Resources.resources
+C:\Users\HWRW\Desktop\Projects\29_10_2018_Project_alpha2Fixed\TestProject\obj\Debug\TestProject.csproj.GenerateResource.cache
+C:\Users\HWRW\Desktop\Projects\29_10_2018_Project_alpha2Fixed\TestProject\obj\Debug\TestProject.csproj.CoreCompileInputs.cache
+C:\Users\HWRW\Desktop\Projects\29_10_2018_Project_alpha2Fixed\TestProject\obj\Debug\TestProject.exe
+C:\Users\HWRW\Desktop\Projects\29_10_2018_Project_alpha2Fixed\TestProject\obj\Debug\TestProject.pdb
+C:\Users\HWRW\Desktop\Projects\29_10_2018_Project_alpha2Fixed\TestProject\bin\Debug\Microsoft.Speech.dll
+C:\Users\HWRW\Desktop\Projects\29_10_2018_Project_alpha2Fixed\TestProject\obj\Debug\TestProject.csproj.CopyComplete
+C:\Users\HWRW\Desktop\Projects\29_10_2018_Project_alpha2Fixed\TestProject\obj\Debug\SelectMenuItem.g.cs
+C:\Users\HWRW\Desktop\Projects\29_10_2018_Project_alpha2Fixed\TestProject\obj\Debug\SelectMenuItem.baml
+C:\Users\HWRW\Desktop\Projects\29_10_2018_Project_alpha2Fixed\TestProject\obj\Debug\During_childbrin.g.cs
+C:\Users\HWRW\Desktop\Projects\29_10_2018_Project_alpha2Fixed\TestProject\obj\Debug\During_childbrin.baml
+C:\Users\Simple\Downloads\Telegram Desktop\SkoroDeadLine\29_10_2018_Project_alpha2Fixed\TestProject\obj\Debug\TestProject.csprojAssemblyReference.cache
+C:\Users\Simple\Downloads\Telegram Desktop\SkoroDeadLine\29_10_2018_Project_alpha2Fixed\TestProject\obj\Debug\During_childbrin.g.cs
+C:\Users\Simple\Downloads\Telegram Desktop\SkoroDeadLine\29_10_2018_Project_alpha2Fixed\TestProject\obj\Debug\MainWindow.g.cs
+C:\Users\Simple\Downloads\Telegram Desktop\SkoroDeadLine\29_10_2018_Project_alpha2Fixed\TestProject\obj\Debug\SecondMain.g.cs
+C:\Users\Simple\Downloads\Telegram Desktop\SkoroDeadLine\29_10_2018_Project_alpha2Fixed\TestProject\obj\Debug\SelectMenuItem.g.cs
+C:\Users\Simple\Downloads\Telegram Desktop\SkoroDeadLine\29_10_2018_Project_alpha2Fixed\TestProject\obj\Debug\App.g.cs
+C:\Users\Simple\Downloads\Telegram Desktop\SkoroDeadLine\29_10_2018_Project_alpha2Fixed\TestProject\obj\Debug\TestProject_Content.g.cs
+C:\Users\Simple\Downloads\Telegram Desktop\SkoroDeadLine\29_10_2018_Project_alpha2Fixed\TestProject\obj\Debug\TestProject_MarkupCompile.cache
+C:\Users\Simple\Downloads\Telegram Desktop\SkoroDeadLine\29_10_2018_Project_alpha2Fixed\TestProject\obj\Debug\TestProject_MarkupCompile.lref
+C:\Users\Simple\Downloads\Telegram Desktop\SkoroDeadLine\29_10_2018_Project_alpha2Fixed\TestProject\obj\Debug\TestProject.exe
+C:\Users\Simple\Downloads\Telegram Desktop\SkoroDeadLine\29_10_2018_Project_alpha2Fixed\TestProject\obj\Debug\TestProject.pdb
+C:\Users\Simple\Downloads\Telegram Desktop\SkoroDeadLine\29_10_2018_Project_alpha2Fixed\TestProject\bin\Debug\TestProject.exe.config
+C:\Users\Simple\Downloads\Telegram Desktop\SkoroDeadLine\29_10_2018_Project_alpha2Fixed\TestProject\bin\Debug\TestProject.exe
+C:\Users\Simple\Downloads\Telegram Desktop\SkoroDeadLine\29_10_2018_Project_alpha2Fixed\TestProject\bin\Debug\TestProject.pdb
+C:\Users\Simple\Downloads\Telegram Desktop\SkoroDeadLine\29_10_2018_Project_alpha2Fixed\TestProject\bin\Debug\Microsoft.Office.Interop.Word.dll
+C:\Users\Simple\Downloads\Telegram Desktop\SkoroDeadLine\29_10_2018_Project_alpha2Fixed\TestProject\bin\Debug\stdole.dll
+C:\Users\Simple\Downloads\Telegram Desktop\SkoroDeadLine\29_10_2018_Project_alpha2Fixed\TestProject\obj\Debug\During_childbrin.baml
+C:\Users\Simple\Downloads\Telegram Desktop\SkoroDeadLine\29_10_2018_Project_alpha2Fixed\TestProject\obj\Debug\MainWindow.baml
+C:\Users\Simple\Downloads\Telegram Desktop\SkoroDeadLine\29_10_2018_Project_alpha2Fixed\TestProject\obj\Debug\SecondMain.baml
+C:\Users\Simple\Downloads\Telegram Desktop\SkoroDeadLine\29_10_2018_Project_alpha2Fixed\TestProject\obj\Debug\SelectMenuItem.baml
+C:\Users\Simple\Downloads\Telegram Desktop\SkoroDeadLine\29_10_2018_Project_alpha2Fixed\TestProject\obj\Debug\TestProject.g.resources
+C:\Users\Simple\Downloads\Telegram Desktop\SkoroDeadLine\29_10_2018_Project_alpha2Fixed\TestProject\obj\Debug\TestProject.Properties.Resources.resources
+C:\Users\Simple\Downloads\Telegram Desktop\SkoroDeadLine\29_10_2018_Project_alpha2Fixed\TestProject\obj\Debug\TestProject.csproj.GenerateResource.cache
+C:\Users\Simple\Downloads\Telegram Desktop\SkoroDeadLine\29_10_2018_Project_alpha2Fixed\TestProject\obj\Debug\TestProject.csproj.CoreCompileInputs.cache
+C:\Users\Simple\Downloads\Telegram Desktop\SkoroDeadLine\29_10_2018_Project_alpha2Fixed\TestProject\obj\Debug\TestProject.csproj.CopyComplete
+E:\Работа\Версии\SkoroDeadLine\TestProject\bin\Debug\TestProject.exe.config
+E:\Работа\Версии\SkoroDeadLine\TestProject\bin\Debug\TestProject.exe
+E:\Работа\Версии\SkoroDeadLine\TestProject\bin\Debug\TestProject.pdb
+E:\Работа\Версии\SkoroDeadLine\TestProject\bin\Debug\Microsoft.Speech.dll
+E:\Работа\Версии\SkoroDeadLine\TestProject\obj\Debug\TestProject.csprojAssemblyReference.cache
+E:\Работа\Версии\SkoroDeadLine\TestProject\obj\Debug\During_childbrin.g.cs
+E:\Работа\Версии\SkoroDeadLine\TestProject\obj\Debug\MainWindow.g.cs
+E:\Работа\Версии\SkoroDeadLine\TestProject\obj\Debug\SecondMain.g.cs
+E:\Работа\Версии\SkoroDeadLine\TestProject\obj\Debug\SelectMenuItem.g.cs
+E:\Работа\Версии\SkoroDeadLine\TestProject\obj\Debug\App.g.cs
+E:\Работа\Версии\SkoroDeadLine\TestProject\obj\Debug\TestProject_Content.g.cs
+E:\Работа\Версии\SkoroDeadLine\TestProject\obj\Debug\TestProject_MarkupCompile.cache
+E:\Работа\Версии\SkoroDeadLine\TestProject\obj\Debug\TestProject_MarkupCompile.lref
+E:\Работа\Версии\SkoroDeadLine\TestProject\obj\Debug\During_childbrin.baml
+E:\Работа\Версии\SkoroDeadLine\TestProject\obj\Debug\MainWindow.baml
+E:\Работа\Версии\SkoroDeadLine\TestProject\obj\Debug\SecondMain.baml
+E:\Работа\Версии\SkoroDeadLine\TestProject\obj\Debug\SelectMenuItem.baml
+E:\Работа\Версии\SkoroDeadLine\TestProject\obj\Debug\TestProject.g.resources
+E:\Работа\Версии\SkoroDeadLine\TestProject\obj\Debug\TestProject.Properties.Resources.resources
+E:\Работа\Версии\SkoroDeadLine\TestProject\obj\Debug\TestProject.csproj.GenerateResource.cache
+E:\Работа\Версии\SkoroDeadLine\TestProject\obj\Debug\TestProject.csproj.CoreCompileInputs.cache
+E:\Работа\Версии\SkoroDeadLine\TestProject\obj\Debug\TestProject.csproj.CopyComplete
+E:\Работа\Версии\SkoroDeadLine\TestProject\obj\Debug\TestProject.exe
+E:\Работа\Версии\SkoroDeadLine\TestProject\obj\Debug\TestProject.pdb
+E:\Работа\Версии\SkoroDeadLine\TestProject\bin\Debug\stdole.dll
+C:\Users\Simple\Downloads\Telegram Desktop\TechenieRodovSucsess\TechenieRodovSucsess\TestProject\bin\Debug\TestProject.exe.config
+C:\Users\Simple\Downloads\Telegram Desktop\TechenieRodovSucsess\TechenieRodovSucsess\TestProject\bin\Debug\TestProject.exe
+C:\Users\Simple\Downloads\Telegram Desktop\TechenieRodovSucsess\TechenieRodovSucsess\TestProject\bin\Debug\TestProject.pdb
+C:\Users\Simple\Downloads\Telegram Desktop\TechenieRodovSucsess\TechenieRodovSucsess\TestProject\bin\Debug\Microsoft.Office.Interop.Word.dll
+C:\Users\Simple\Downloads\Telegram Desktop\TechenieRodovSucsess\TechenieRodovSucsess\TestProject\bin\Debug\stdole.dll
+C:\Users\Simple\Downloads\Telegram Desktop\TechenieRodovSucsess\TechenieRodovSucsess\TestProject\obj\Debug\TestProject.csprojAssemblyReference.cache
+C:\Users\Simple\Downloads\Telegram Desktop\TechenieRodovSucsess\TechenieRodovSucsess\TestProject\obj\Debug\During_childbrin.g.cs
+C:\Users\Simple\Downloads\Telegram Desktop\TechenieRodovSucsess\TechenieRodovSucsess\TestProject\obj\Debug\MainWindow.g.cs
+C:\Users\Simple\Downloads\Telegram Desktop\TechenieRodovSucsess\TechenieRodovSucsess\TestProject\obj\Debug\SecondMain.g.cs
+C:\Users\Simple\Downloads\Telegram Desktop\TechenieRodovSucsess\TechenieRodovSucsess\TestProject\obj\Debug\SelectMenuItem.g.cs
+C:\Users\Simple\Downloads\Telegram Desktop\TechenieRodovSucsess\TechenieRodovSucsess\TestProject\obj\Debug\App.g.cs
+C:\Users\Simple\Downloads\Telegram Desktop\TechenieRodovSucsess\TechenieRodovSucsess\TestProject\obj\Debug\TestProject_Content.g.cs
+C:\Users\Simple\Downloads\Telegram Desktop\TechenieRodovSucsess\TechenieRodovSucsess\TestProject\obj\Debug\TestProject_MarkupCompile.cache
+C:\Users\Simple\Downloads\Telegram Desktop\TechenieRodovSucsess\TechenieRodovSucsess\TestProject\obj\Debug\TestProject_MarkupCompile.lref
+C:\Users\Simple\Downloads\Telegram Desktop\TechenieRodovSucsess\TechenieRodovSucsess\TestProject\obj\Debug\During_childbrin.baml
+C:\Users\Simple\Downloads\Telegram Desktop\TechenieRodovSucsess\TechenieRodovSucsess\TestProject\obj\Debug\MainWindow.baml
+C:\Users\Simple\Downloads\Telegram Desktop\TechenieRodovSucsess\TechenieRodovSucsess\TestProject\obj\Debug\SecondMain.baml
+C:\Users\Simple\Downloads\Telegram Desktop\TechenieRodovSucsess\TechenieRodovSucsess\TestProject\obj\Debug\SelectMenuItem.baml
+C:\Users\Simple\Downloads\Telegram Desktop\TechenieRodovSucsess\TechenieRodovSucsess\TestProject\obj\Debug\TestProject.g.resources
+C:\Users\Simple\Downloads\Telegram Desktop\TechenieRodovSucsess\TechenieRodovSucsess\TestProject\obj\Debug\TestProject.Properties.Resources.resources
+C:\Users\Simple\Downloads\Telegram Desktop\TechenieRodovSucsess\TechenieRodovSucsess\TestProject\obj\Debug\TestProject.csproj.GenerateResource.cache
+C:\Users\Simple\Downloads\Telegram Desktop\TechenieRodovSucsess\TechenieRodovSucsess\TestProject\obj\Debug\TestProject.csproj.CoreCompileInputs.cache
+C:\Users\Simple\Downloads\Telegram Desktop\TechenieRodovSucsess\TechenieRodovSucsess\TestProject\obj\Debug\TestProject.csproj.CopyComplete
+C:\Users\Simple\Downloads\Telegram Desktop\TechenieRodovSucsess\TechenieRodovSucsess\TestProject\obj\Debug\TestProject.exe
+C:\Users\Simple\Downloads\Telegram Desktop\TechenieRodovSucsess\TechenieRodovSucsess\TestProject\obj\Debug\TestProject.pdb
+E:\Работа\Версии\31.10.2018\TestProject\bin\Debug\TestProject.exe.config
+E:\Работа\Версии\31.10.2018\TestProject\bin\Debug\TestProject.exe
+E:\Работа\Версии\31.10.2018\TestProject\bin\Debug\TestProject.pdb
+E:\Работа\Версии\31.10.2018\TestProject\bin\Debug\Microsoft.Speech.dll
+E:\Работа\Версии\31.10.2018\TestProject\bin\Debug\stdole.dll
+E:\Работа\Версии\31.10.2018\TestProject\obj\Debug\TestProject.csprojAssemblyReference.cache
+E:\Работа\Версии\31.10.2018\TestProject\obj\Debug\During_childbrin.g.cs
+E:\Работа\Версии\31.10.2018\TestProject\obj\Debug\MainWindow.g.cs
+E:\Работа\Версии\31.10.2018\TestProject\obj\Debug\SecondMain.g.cs
+E:\Работа\Версии\31.10.2018\TestProject\obj\Debug\SelectMenuItem.g.cs
+E:\Работа\Версии\31.10.2018\TestProject\obj\Debug\App.g.cs
+E:\Работа\Версии\31.10.2018\TestProject\obj\Debug\TestProject_Content.g.cs
+E:\Работа\Версии\31.10.2018\TestProject\obj\Debug\TestProject_MarkupCompile.cache
+E:\Работа\Версии\31.10.2018\TestProject\obj\Debug\TestProject_MarkupCompile.lref
+E:\Работа\Версии\31.10.2018\TestProject\obj\Debug\During_childbrin.baml
+E:\Работа\Версии\31.10.2018\TestProject\obj\Debug\MainWindow.baml
+E:\Работа\Версии\31.10.2018\TestProject\obj\Debug\SecondMain.baml
+E:\Работа\Версии\31.10.2018\TestProject\obj\Debug\SelectMenuItem.baml
+E:\Работа\Версии\31.10.2018\TestProject\obj\Debug\TestProject.g.resources
+E:\Работа\Версии\31.10.2018\TestProject\obj\Debug\TestProject.Properties.Resources.resources
+E:\Работа\Версии\31.10.2018\TestProject\obj\Debug\TestProject.csproj.GenerateResource.cache
+E:\Работа\Версии\31.10.2018\TestProject\obj\Debug\TestProject.csproj.CoreCompileInputs.cache
+E:\Работа\Версии\31.10.2018\TestProject\obj\Debug\TestProject.csproj.CopyComplete
+E:\Работа\Версии\31.10.2018\TestProject\obj\Debug\TestProject.exe
+E:\Работа\Версии\31.10.2018\TestProject\obj\Debug\TestProject.pdb
+E:\Работа\Версии\31.10.2018\TestProject\obj\Debug\DinamicObservation.g.cs
+E:\Работа\Версии\31.10.2018\TestProject\obj\Debug\DinamicObservation.baml
+C:\Users\Simple\Downloads\Telegram Desktop\ZavtraExat\ZavtraExat\TestProject\obj\Debug\TestProject.csprojAssemblyReference.cache
+C:\Users\Simple\Downloads\Telegram Desktop\ZavtraExat\ZavtraExat\TestProject\obj\Debug\DinamicObservation.g.cs
+C:\Users\Simple\Downloads\Telegram Desktop\ZavtraExat\ZavtraExat\TestProject\obj\Debug\During_childbrin.g.cs
+C:\Users\Simple\Downloads\Telegram Desktop\ZavtraExat\ZavtraExat\TestProject\obj\Debug\MainWindow.g.cs
+C:\Users\Simple\Downloads\Telegram Desktop\ZavtraExat\ZavtraExat\TestProject\obj\Debug\SecondMain.g.cs
+C:\Users\Simple\Downloads\Telegram Desktop\ZavtraExat\ZavtraExat\TestProject\obj\Debug\SelectMenuItem.g.cs
+C:\Users\Simple\Downloads\Telegram Desktop\ZavtraExat\ZavtraExat\TestProject\obj\Debug\App.g.cs
+C:\Users\Simple\Downloads\Telegram Desktop\ZavtraExat\ZavtraExat\TestProject\obj\Debug\TestProject_Content.g.cs
+C:\Users\Simple\Downloads\Telegram Desktop\ZavtraExat\ZavtraExat\TestProject\obj\Debug\TestProject_MarkupCompile.cache
+C:\Users\Simple\Downloads\Telegram Desktop\ZavtraExat\ZavtraExat\TestProject\obj\Debug\TestProject_MarkupCompile.lref
+C:\Users\Simple\Downloads\Telegram Desktop\ZavtraExat\ZavtraExat\TestProject\obj\Debug\TestProject.exe
+C:\Users\Simple\Downloads\Telegram Desktop\ZavtraExat\ZavtraExat\TestProject\obj\Debug\TestProject.pdb
+C:\Users\Simple\Downloads\Telegram Desktop\ZavtraExat\ZavtraExat\TestProject\bin\Debug\TestProject.exe.config
+C:\Users\Simple\Downloads\Telegram Desktop\ZavtraExat\ZavtraExat\TestProject\bin\Debug\TestProject.exe
+C:\Users\Simple\Downloads\Telegram Desktop\ZavtraExat\ZavtraExat\TestProject\bin\Debug\TestProject.pdb
+C:\Users\Simple\Downloads\Telegram Desktop\ZavtraExat\ZavtraExat\TestProject\bin\Debug\Microsoft.Office.Interop.Word.dll
+C:\Users\Simple\Downloads\Telegram Desktop\ZavtraExat\ZavtraExat\TestProject\bin\Debug\stdole.dll
+C:\Users\Simple\Downloads\Telegram Desktop\ZavtraExat\ZavtraExat\TestProject\obj\Debug\DinamicObservation.baml
+C:\Users\Simple\Downloads\Telegram Desktop\ZavtraExat\ZavtraExat\TestProject\obj\Debug\During_childbrin.baml
+C:\Users\Simple\Downloads\Telegram Desktop\ZavtraExat\ZavtraExat\TestProject\obj\Debug\MainWindow.baml
+C:\Users\Simple\Downloads\Telegram Desktop\ZavtraExat\ZavtraExat\TestProject\obj\Debug\SecondMain.baml
+C:\Users\Simple\Downloads\Telegram Desktop\ZavtraExat\ZavtraExat\TestProject\obj\Debug\SelectMenuItem.baml
+C:\Users\Simple\Downloads\Telegram Desktop\ZavtraExat\ZavtraExat\TestProject\obj\Debug\TestProject.g.resources
+C:\Users\Simple\Downloads\Telegram Desktop\ZavtraExat\ZavtraExat\TestProject\obj\Debug\TestProject.Properties.Resources.resources
+C:\Users\Simple\Downloads\Telegram Desktop\ZavtraExat\ZavtraExat\TestProject\obj\Debug\TestProject.csproj.GenerateResource.cache
+C:\Users\Simple\Downloads\Telegram Desktop\ZavtraExat\ZavtraExat\TestProject\obj\Debug\TestProject.csproj.CoreCompileInputs.cache
+C:\Users\Simple\Downloads\Telegram Desktop\ZavtraExat\ZavtraExat\TestProject\obj\Debug\TestProject.csproj.CopyComplete
+C:\Users\Simple\Downloads\Telegram Desktop\ZavtraExat\ZavtraExat\TestProject\bin\Debug\IronPython.dll
+C:\Users\Simple\Downloads\Telegram Desktop\ZavtraExat\ZavtraExat\TestProject\bin\Debug\IronPython.Modules.dll
+C:\Users\Simple\Downloads\Telegram Desktop\ZavtraExat\ZavtraExat\TestProject\bin\Debug\IronPython.SQLite.dll
+C:\Users\Simple\Downloads\Telegram Desktop\ZavtraExat\ZavtraExat\TestProject\bin\Debug\IronPython.Wpf.dll
+C:\Users\Simple\Downloads\Telegram Desktop\ZavtraExat\ZavtraExat\TestProject\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\Simple\Downloads\Telegram Desktop\ZavtraExat\ZavtraExat\TestProject\bin\Debug\Microsoft.Scripting.dll
+C:\Users\Simple\Downloads\Telegram Desktop\ZavtraExat\ZavtraExat\TestProject\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\Simple\Downloads\Telegram Desktop\ZavtraExat\ZavtraExat\TestProject\bin\Debug\IronPython.xml
+C:\Users\Simple\Downloads\Telegram Desktop\ZavtraExat\ZavtraExat\TestProject\bin\Debug\IronPython.Modules.xml
+C:\Users\Simple\Downloads\Telegram Desktop\ZavtraExat\ZavtraExat\TestProject\bin\Debug\IronPython.SQLite.xml
+C:\Users\Simple\Downloads\Telegram Desktop\ZavtraExat\ZavtraExat\TestProject\bin\Debug\IronPython.Wpf.xml
+C:\Users\Simple\Downloads\Telegram Desktop\ZavtraExat\ZavtraExat\TestProject\bin\Debug\Microsoft.Dynamic.xml
+C:\Users\Simple\Downloads\Telegram Desktop\ZavtraExat\ZavtraExat\TestProject\bin\Debug\Microsoft.Scripting.xml
+C:\Users\Simple\Downloads\Telegram Desktop\ZavtraExat\ZavtraExat\TestProject\bin\Debug\Microsoft.Scripting.Metadata.xml

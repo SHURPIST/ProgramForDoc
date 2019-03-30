@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\SHARPIST\.Rider2018.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\SHARPIST\.Rider2018.3\system\resharper-host\Local\Transient\ReSharperHost\v183\SolutionCaches\_TestProject.-1490666700.00" t="ExcludeRecursive" />
+    <e p="C:\Users\SHARPIST\Documents\GitHub\ProgramForDoc\ZavtraExat" t="IncludeFlat">
+      <e p="TestProject" t="IncludeRecursive">
+        <e p="TestProject.csproj" t="IncludeRecursive" />
+      </e>
+      <e p="TestProject.sln" t="IncludeFlat" />
+    </e>
+  </component>
+</project>
