@@ -21,6 +21,7 @@ using Microsoft.Speech.Internal;
 using Microsoft.Speech.Recognition.SrgsGrammar;
 using System;
 using System.Collections.Generic;
+using System.Diagnostics.Eventing.Reader;
 using Microsoft.Speech.Recognition;
 using Microsoft.Speech.Synthesis;
 using System.Globalization;
@@ -54,7 +55,9 @@ namespace TestProject
 
 
         public string VectorDock;
-
+            
+       public string[] words = new string[50];     
+        public string[] famData = new string[3];
         public string[] DateTime = new string[4];// Массивы с параметрами
         public string[] twoHis = new string[6];
         public string[] startMake = new string[6];
@@ -111,7 +114,7 @@ namespace TestProject
         public string TimeBerZ;
         public string TimeBerUzi;
         public string TimeBerOb;
-
+        public string Family;
 
 
         //Строка с директорией поиска файла
@@ -380,7 +383,7 @@ namespace TestProject
             {
 
                 bool create = true;
-                if (Family.Text == "")
+                if (Family == "")
                 {
                     create = false;
                     MessageBox.Show("Строка ФИО не может быть пустой");
@@ -388,7 +391,7 @@ namespace TestProject
 
                 foreach (string file in Directory.GetFiles(SaveDierectory))
                 {
-                    if (file == Family.Text)
+                    if (file == Family)
                     {
                         create = false;
                         MessageBox.Show("Файл с таким именем уже существет");
@@ -398,35 +401,18 @@ namespace TestProject
                 if (create)
                 {
 
-                    string DateTimeL = GroupToString(DateTime);
-                   // MessageBox.Show(DateTimeL);
-                    string twoHisL = GroupToString(twoHis);
-                   // MessageBox.Show(twoHisL);
-                    string[] startMakeL = filter(startMake);
-                    string[] anamLifeL = filter(anamLife);
                     
-                    List<string> AllMark = new List<string>();
-                   AllMark.Add(DateTimeL);
-                   AllMark.Add(twoHisL);
+
                 //    MessageBox.Show(AllMark[0]);
                  //   MessageBox.Show(AllMark[1]);
              
                //     addArray(filter(DateTime),AllMark);
                  //   addArray(filter(twoHis),AllMark);
                     
-                    addArray(startMakeL,AllMark);
-                    addArray(anamLifeL,AllMark);
+             
                     
-                    AllMark.Add(GroupToString(husOldS));
-                    AllMark.Add(GroupToString(husBlood));
-                    AllMark.Add(GroupToString(husSmoke));
-
-                    AllMark = filterList(AllMark);
-                    foreach(string s in filterList(AllMark))
-                    {
-                        MessageBox.Show(s);
-                    }
-                    string newFile = SaveDierectory + @"\" + Family.Text + ".docx";
+         
+                    string newFile = SaveDierectory + @"\" + Family + ".docx";
                     File.Copy("shablon.docx", newFile);
                     Word.Document doc = null;
 
@@ -447,29 +433,21 @@ namespace TestProject
                         doc.Content.SetRange(0, 0);
                         //for (int i = 2; i < AllMark.Count; i += 2)
                         int i = 0;
-                        while (i < AllMark.Count)
+                        foreach (string word in words)
                         {
-                            MessageBox.Show(AllMark[i]);
-                            if (AllMark[i] == "" || AllMark[i] == null)
+                            if (string.IsNullOrEmpty(word))
                             {
-                                i++;
                                 continue;
                             }
-                            if (filterString(AllMark[i],oneString))
+                            if(word[0] == '#')
                             {
-                                AddText(doc,AllMark[i]);
-                                i++;
-                            }
-                            else if(filterString(AllMark[i],tittleString))
-                            {
-                                MessageBox.Show("TITTTLE");
-                                AddTextTittle(doc,AllMark[i]);
-                                i++;
+                              
+                                AddTextTittle(doc,word);
+                           
                             }
                             else
                             {
-                                AddText(doc, AllMark[i] + AllMark[i + 1]);
-                                i += 2;
+                                AddText(doc, word);
                             }
                         }
 
@@ -486,19 +464,6 @@ namespace TestProject
                         doc = null;
 
                     }
-
-
-                    for (int i = 0; i < textList.Count; i++)
-                    {
-                        textList[i].Text = "";
-                    }
-
-                    for (int i = 0;i< checkList.Count;i++)
-                    {
-                        checkList[i].IsChecked = false;
-                    }
-
-                    textList.Clear();
 
 
                     Array.Clear(DateTime, 0, DateTime.Length - 1);
@@ -958,8 +923,85 @@ namespace TestProject
          * P.S Конечно алгоритм можно было сделть оптимизирование например добавляя строки в контент самих элементов но работа ввелась слишком сумбурно
          *
          */
+
+        int[] getNum(String text)
+        {
+            int N;
+            string Num = "";
+            string Col = "";
+            var record = true;
+            foreach (var c in text)
+            {
+                if (int.TryParse(c.ToString(), out N))
+                {
+                    if (record)
+                        Num += c.ToString();
+                    else
+                        Col += c.ToString();
+                }
+                else if(c == '@')
+                {
+                    record = !record;
+                }
+                else
+                {
+                    int[] result;
+                    if (Col != "")
+                        result = new int[2] {Int32.Parse(Num), Int32.Parse(Col)};
+                    else
+                          result = new int[2] {Int32.Parse(Num), -1};
+                    
+                     return result;
+                }
+            }
+
+            return new int[1]{0};
+
+        }
         
         
+        void textBoxAdd(object sender, TextChangedEventArgs e) // <================================!!!!!!!!!!!UNCHECKED!!!!!!!!!!!
+        {
+
+            TextBox textBox = (TextBox) sender;
+            var str =textBox.Name + textBox.Text;
+            var num = getNum(str);
+            int cutLength = num[0].ToString().Length;
+            if (num[1] == -1)
+            {
+                
+                words[num[0]] = str.Substring(cutLength);
+            }
+            else
+            {
+                switch (num[0])
+                {
+                    case 0:
+                        famData[num[1]] = str.Substring(cutLength);
+                        break;                           //<====================[!!!!!!!!!ДОДЕЛАТЬ!!!!!!!!]
+                        
+                }
+            }
+                   }
+
+        void familyBox(object sender, TextChangedEventArgs e)
+        {
+            var text = (TextBox) sender;
+            Family = text.Text;
+            textBoxAdd(sender,e);
+        }
+
+
+        void checkBoxAdd(object sender, RoutedEventArgs e) //<================!!!!!!!!!!!!!!UNCHECKED!!!!!!!!!!
+        {
+            var radioButton = (RadioButton) sender;
+            string str = radioButton.ContentStringFormat + radioButton.Content;
+
+            var num = getNum(str);
+            words[num[0]] = str;
+
+
+        }
         
         
         void DateText(object sender, TextChangedEventArgs e)

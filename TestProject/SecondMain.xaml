@@ -148,8 +148,8 @@
                                                         <TextBlock Foreground="#343434" FontWeight="Bold" FontSize="14" Grid.Column="0" Grid.Row="2">Ф.И.О.</TextBlock>
                                                         <TextBlock Foreground="#343434" FontWeight="Bold" FontSize="14" Grid.Column="0" Grid.Row="4">Возраст</TextBlock>
                                                         <TextBox Grid.Row="0" Grid.Column="1" Height="23" Background="#343434" Foreground="#cccccc" FontWeight="Bold" Margin="10 0 5 0" Width="200" TextChanged="HisCreateText" x:Name="StoryCreate"></TextBox>
-                                                        <TextBox Grid.Row="2" Grid.Column="1" Height="23" Background="#343434" Foreground="#cccccc" FontWeight="Bold" Margin="10 0 5 0" Width="200" TextChanged="FIOText" x:Name="Family"></TextBox>
-                                                        <TextBox Grid.Row="4" Grid.Column="1" Height="23" Background="#343434" Foreground="#cccccc" FontWeight="Bold" Margin="10 0 5 0" Width="200" TextChanged="OldText" x:Name="Old"></TextBox>
+                                                        <TextBox Grid.Row="2" Grid.Column="1" Height="23" Background="#343434" Foreground="#cccccc" FontWeight="Bold" Margin="10 0 5 0" Width="200" TextChanged="familyBox" x:Name="0Ф.И.О:"></TextBox>
+                                                        <TextBox Grid.Row="4" Grid.Column="1" Height="23" Background="#343434" Foreground="#cccccc" FontWeight="Bold" Margin="10 0 5 0" Width="200" TextChanged="textBoxAdd" x:Name="1Возраст:"></TextBox>
                                                     </Grid>
                                                 </DockPanel>
                                             </TreeViewItem>
@@ -326,7 +326,7 @@
                                             </Grid>
                                         </TreeViewItem>
                                     </TreeView>
-                                </DockPanel>
+                                </DockPanl>
                             </Grid>
                         </DockPanel>
                         

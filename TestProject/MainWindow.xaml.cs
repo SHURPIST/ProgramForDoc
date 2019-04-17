@@ -40,7 +40,7 @@ namespace TestProject
 
             for (int i = 0; i < Login.Length; i++)
                 if(logBox.Text == Login[i])
-                    for(int j = 0; j < Pass.Length; j++)
+                    for(int j = 0; j < Pass.Length; j++  )
                         if (passBox.Password == Pass[j])
                         {
                             selectMenuItem.Show();
